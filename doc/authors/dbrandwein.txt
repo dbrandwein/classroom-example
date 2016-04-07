@@ -1,0 +1,6 @@
+I use git in my company, but since it's an internal service
+and not many people on my team use it, I have rarely had to 
+care about any of the features in git.
+
+As my team ramps up on some of our new responsibilities, this
+will become more important very quickly.
